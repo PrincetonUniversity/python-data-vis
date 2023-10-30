@@ -6,7 +6,7 @@ This workshop provides an introduction to effective data visualization in Python
 
 ### Setup
 
-This notebook in this repository can used on Google Colab or on the Adroit cluster.
+The notebook in this repository can used on [Google Colab](https://colab.research.google.com/github/PrincetonUniversity/python-data-vis/blob/main/python_data_vis.ipynb) or on the Adroit or Della clusters using [OnDemand Jupyter](https://researchcomputing.princeton.edu/support/knowledge-base/jupyter).
 
 ### Getting Help
 
